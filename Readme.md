@@ -27,3 +27,7 @@ This project is a simple Go program that prints a Halloween pumpkin ASCII art to
                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                      @@@@@@@@@@@@@@@@@@@@@@@@@@
                        @@@@@@@@@@@@@@@@@@@@@@
+
+```
+
+![Commit Log](./commit-log.png)
